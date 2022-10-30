@@ -1,0 +1,26 @@
+/*
+    Student Name: Andrea Burns
+	File Name: ViciousCYCLES.css
+	Current Date: 10/29/ 2022
+*/
+
+/* CSS reset */
+body, header, nav, main, footer, img, h1, h3, h2, ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* Style rule for body and images */
+body {
+    background: lightgoldenrodyellow;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50%;
+}
+
+/* Style rules for navigation area */
